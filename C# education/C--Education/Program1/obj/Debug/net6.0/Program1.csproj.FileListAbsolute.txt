@@ -1,0 +1,15 @@
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.csproj.AssemblyReference.cache
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.AssemblyInfoInputs.cache
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.AssemblyInfo.cs
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.csproj.CoreCompileInputs.cache
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/bin/Debug/net6.0/Program1
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/bin/Debug/net6.0/Program1.deps.json
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/bin/Debug/net6.0/Program1.runtimeconfig.json
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/bin/Debug/net6.0/Program1.dll
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/bin/Debug/net6.0/Program1.pdb
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.dll
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/refint/Program1.dll
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.pdb
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/Program1.genruntimeconfig.cache
+/Users/sofyapivovarova/Desktop/Frontend/C# education/C--Education/Program1/obj/Debug/net6.0/ref/Program1.dll

@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-size: 14px;
+}
+
+.first {
+    border: 5px solid coral;
+    padding: 30px ;
+    margin: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    width: 100px;
+}
+
+.second {
+    border: 5px solid green;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    background: #c0d1e1;
+    width: 100px;
+}
+
+.test {
+    background-color: aliceblue;
+    border: 2px solid greenyellow;
+    margin: 95px;
+    padding: 50px;
+    display: flex;
+    width: fit-content;
+}
