@@ -3,6 +3,7 @@
     margin: 0px;
     border: 0px;
     font-size: 14px;
+    box-sizing: border-box;
 }
 
 .first {
@@ -11,8 +12,6 @@
     margin: 10px;
     text-align: center;
     background-color: antiquewhite;
-    box-sizing: border-box;
-    width: 100px;
 }
 
 .second {
@@ -21,14 +20,31 @@
     margin: 10px;
     text-align: center;
     background: #c0d1e1;
-    width: 100px;
+}
+
+.third {
+    border: 5px solid rgb(143, 240, 17);
+    padding: 30px ;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(142, 205, 205);
+}
+
+.fourth {
+    border: 5px solid rgb(17, 36, 240);
+    padding: 30px ;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(247, 219, 143);
+    width: 50%`;
 }
 
 .test {
     background-color: aliceblue;
-    border: 2px solid greenyellow;
-    margin: 95px;
-    padding: 50px;
-    display: flex;
-    width: fit-content;
+    border: 2px solid rgb(231, 7, 41);
+    /* margin: 100px;
+    padding: 10px; */
+    /* width: fit-content; */
+    /* display: flex; */
 }
+
